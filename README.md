@@ -32,7 +32,7 @@ This repository provides a comprehensive pipeline for **speech diarization**, **
 ## Setup Instructions
 
 ### 1. Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Onkarhavarge-2003/Speech-Diarization.git
 cd your-repo-name
 
 
